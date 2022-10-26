@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hjkimw/react_bugatti/static/css/main.7629ed07.css",
+    "main.js": "/hjkimw/react_bugatti/static/js/main.0fb6e7b9.js",
+    "static/media/Group 22.png": "/hjkimw/react_bugatti/static/media/Group 22.a2563852ff1cb22202fb.png",
+    "static/media/iCielGotham.ttf": "/hjkimw/react_bugatti/static/media/iCielGotham.b23bb62d3ada95759750.ttf",
+    "static/media/Genesys.ttf": "/hjkimw/react_bugatti/static/media/Genesys.bcc36fe95e4421de3224.ttf",
+    "index.html": "/hjkimw/react_bugatti/index.html",
+    "main.7629ed07.css.map": "/hjkimw/react_bugatti/static/css/main.7629ed07.css.map",
+    "main.0fb6e7b9.js.map": "/hjkimw/react_bugatti/static/js/main.0fb6e7b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7629ed07.css",
+    "static/js/main.0fb6e7b9.js"
+  ]
+}
